@@ -21,6 +21,7 @@ int main()
         cout << "Namanya adalah = " << arr[i] << endl;
     }
 
+
     return(0);
 }
 
